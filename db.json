@@ -1,9 +1,17 @@
 {
     "users": {
-        "id": 1,
+        "id": "7d0175e0-d304-413e-a623-9d9dba19ce8c",
         "email": "fernando@papito.dev",
         "password": "pwd123",
         "avatar": null
+    },
+    "login": {
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI3ZDAxNzVlMC1kMzA0LTQxM2UtYTYyMy05ZDlkYmExOWNlOGMiLCJpYXQiOjE3MzY3MjU1Njl9.Xv1Gqy6k9tgSdi8C3EQ50JoL_Q6LKID1j7ngzbvBQSk",
+        "user": {
+            "id": "7d0175e0-d304-413e-a623-9d9dba19ce8c",
+            "name": "Fernando Papito",
+            "email": "papito@gmail.com"
+        }
     },
     "contacts": [
         {
