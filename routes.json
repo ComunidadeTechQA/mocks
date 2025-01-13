@@ -1,6 +1,4 @@
 {
-  "/users/login": "/login",
-  "/users/register": "/users",
-  "/users/profile": "/users",
-  "/contacts": "/contacts"
+  "/contacts": "/contacts",
+  "/contacts/:whatsapp": "/contacts?whatsapp=:whatsapp"
 }

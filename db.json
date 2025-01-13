@@ -1,5 +1,11 @@
 {
-    "users": {
+    "register": {
+        "id": "7d0175e0-d304-413e-a623-9d9dba19ce8c",
+        "email": "fernando@papito.dev",
+        "password": "pwd123",
+        "avatar": null
+    },
+    "profile": {
         "id": "7d0175e0-d304-413e-a623-9d9dba19ce8c",
         "email": "fernando@papito.dev",
         "password": "pwd123",
