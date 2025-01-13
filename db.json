@@ -1,0 +1,90 @@
+{
+    "users": {
+        "id": 1,
+        "email": "fernando@papito.dev",
+        "password": "pwd123",
+        "avatar": null
+    },
+    "contacts": [
+        {
+            "id": 1,
+            "name": "Rafael Professor de Ingles",
+            "whatsapp": "11930097557",
+            "email": "fernando@gmail.com",
+            "userId": 1,
+            "description": "Professor de curso de ingles, entrar em contato para ver o preço da aula"
+        },
+        {
+            "id": 2,
+            "name": "Gessos Oliveira",
+            "whatsapp": "11987654321",
+            "email": "contato@gessosoliveira.com",
+            "userId": 1,
+            "description": "Fazer um orçamento para forro de gesso na sala"
+        },
+        {
+            "id": 3,
+            "name": "Clínica Vida Saudável",
+            "whatsapp": "11955555555",
+            "email": "agenda@vidas.com",
+            "userId": 1,
+            "description": "Agendar consulta médica de rotina"
+        },
+        {
+            "id": 4,
+            "name": "Mecânica Super Torque",
+            "whatsapp": "11944444444",
+            "email": "contato@supertorque.com",
+            "userId": 1,
+            "description": "Revisão completa no carro antes da viagem"
+        },
+        {
+            "id": 5,
+            "name": "Joana Consultora de Beleza",
+            "whatsapp": "11933333333",
+            "email": "joanaconsultoria@gmail.com",
+            "userId": 1,
+            "description": "Verificar catálogo de novos produtos"
+        },
+        {
+            "id": 6,
+            "name": "Pizzaria Bella Massa",
+            "whatsapp": "11922222222",
+            "email": "delivery@bellamassa.com",
+            "userId": 1,
+            "description": "Pedido recorrente nas sextas-feiras"
+        },
+        {
+            "id": 7,
+            "name": "Papelaria Escolar",
+            "whatsapp": "11911111111",
+            "email": "vendas@papelariaescolar.com",
+            "userId": 1,
+            "description": "Orçamento de materiais escolares para o próximo semestre"
+        },
+        {
+            "id": 8,
+            "name": "Oficina Criativa",
+            "whatsapp": "11900000000",
+            "email": "contato@oficre.com",
+            "userId": 1,
+            "description": "Solicitar orçamento de convites personalizados"
+        },
+        {
+            "id": 9,
+            "name": "Luiz Pedreiro",
+            "whatsapp": "11888888888",
+            "email": "luizpedreiro@gmail.com",
+            "userId": 1,
+            "description": "Orçamento para reforma do banheiro"
+        },
+        {
+            "id": 10,
+            "name": "Dra. Carla Dentista",
+            "whatsapp": "11877777777",
+            "email": "dracarla@gmail.com",
+            "userId": 1,
+            "description": "Consulta de limpeza dental"
+        }
+    ]
+}
